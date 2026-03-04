@@ -23,6 +23,7 @@ Le programme :
    - Solution (chemin `*`)
    - Chemin (liste de coordonnées)
    - Statistiques : noeuds explorés, longueur du chemin, temps d'exécution
+5. Affiche un tableau comparatif
 
 ## Structure
 - `maze.py` : génération + utilitaires + rendu
@@ -30,7 +31,6 @@ Le programme :
 - `bfs.py` : algorithme BFS
 - `astar.py` : algorithme A*
 - `main.py` : point d'entrée
-- `requirements.txt`
 - `README.md`
 
 ## Exécution
